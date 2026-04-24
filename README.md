@@ -1,8 +1,8 @@
-# pg_repack
+# pg-repack
 
 ## Build
 
-Build the `pg_repack` Docker containers
+Build the `pg-repack` Docker containers
 
 ```bash
 # Postgres 13
